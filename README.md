@@ -1,4 +1,4 @@
-# JTJM Floral 
+# JTJM Floral - Journey to Joyful Moment
 
 ## Description
 
