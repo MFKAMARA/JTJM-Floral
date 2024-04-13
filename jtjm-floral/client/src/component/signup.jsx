@@ -24,10 +24,8 @@ const Home = () => {
       });
 
       if (response.ok) {
-        // Đăng ký thành công, xử lý tiếp theo ở đây
         console.log('Registration successful');
       } else {
-        // Xử lý khi đăng ký không thành công ở đây
         console.error('Registration failed');
       }
     } catch (error) {
@@ -38,7 +36,7 @@ const Home = () => {
   return (
     <div>
       <Head />
-      {/* Form đăng ký */}
+
       <h2>Sign Up</h2>
       <section className="signup-section">
         
