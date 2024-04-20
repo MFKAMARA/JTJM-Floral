@@ -1,61 +1,70 @@
-# JTJM Floral - Journey to Joyful Moment
+# Getting Started with Create React App
 
-## Description
-Welcome to JTJM Floal website, your destination for explore floral arrangements and "full-stack" wedding planning services. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Our MERN-powered website offers a user-friendly interface backed by React, MongoDB, and GraphQL. Explore our website for stunning floral designs and comprehensive wedding planning solutions.
+## Available Scripts
 
-From professional photography to makeup artistry and decor styling, we're here to elevate your wedding experience. 
+In the project directory, you can run:
 
-Start your journey with us, a JOURNEY TO JOYFUL MOMENT! 
+### `npm start`
 
-## Table of Contents
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [User Story](#user-story)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- [Acceptance Criteria](#acceptance-criteria)
+### `npm test`
 
-- [Usage](#usage)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- [Screeshot](#screenshot)
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## User Story
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-```md
-AS A ready to married couple,
-I WANT to browse through a variety of floral arrangements and wedding planning services
-SO THAT I can find inspiration and make informed decisions for my wedding day
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-## Acceptance Criteria
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```md
-GIVEN a JTJM Floral company website
-WHEN I launch the homepage
-THEN I am presented with a welcome banner, reviews of customers as well as links to company's social media pages
-WHEN I click About tab on navigation bar
-THEN I am presented informations such as introduce, how to service as a customer of the company
-WHEN I click Services tab on navigation bar
-THEN I am presented two options of services they providing, that are Florals and Wedding Planner
-WHEN I Click Shop on the naviagtion bar
-THEN I am presents services they providing about florals and wedding planner with a deposit fee that i will pay to start a service
-WHEN I click Add to cart button
-THEN a service will added into my cart that i can make a payment later
-WHEN I click on Wedding tab on navigation bar
-THEN I am presented all services they provding for a wedding and the photo albums that they made for previous customers.
-WHEN I click Book a service
-THEN I am redirected to the Shop page where all services and the deposit prices displayed.
-WHEN I click Contact tab on navigation bar
-THEN I have a form to fill out my name, email, and message content and send them a message that they can contact me back for consultance.
-WHEN I click on My Cart button
-THEN I can see all the service product that i added before and process the payment.
-WHEN I click on Login button
-THEN I can create a new account or login to my account where can i recieve promotion, discount coupons,..
-```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Usage
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Screenshot
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
